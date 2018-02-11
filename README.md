@@ -1,4 +1,4 @@
-#Real Time Object Recognition
+Real Time Object Recognition
 Real Time object recognition using Apple's CoreML and Vision API
 
 In this project I have used device's Back camera to capture frames and recognise the objects in real time using CoreML and Vision.
