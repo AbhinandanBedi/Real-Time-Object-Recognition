@@ -5,4 +5,4 @@ In this project I have used device's Back camera to capture frames and recognise
 
 The CoreML model used is Inceptionv3.
 
-Also, whenever the camera detects a new object, it speaks it out.
+Also, whenever the camera detects a new object, it speaks the object's name.
